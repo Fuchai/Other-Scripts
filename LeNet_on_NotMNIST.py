@@ -161,11 +161,6 @@ with open(pickle_file, 'rb') as f:
     print('Training set', train_dataset.shape, train_labels.shape)
     print('Validation set', valid_dataset.shape, valid_labels.shape)
     print('Test set', test_dataset.shape, test_labels.shape)
-
-image_size = 28
-num_labels = 10
-batch_size = 16
-num_channels = 1 # grayscale
 '''
 
 def make_arrays(nb_rows, img_size):
