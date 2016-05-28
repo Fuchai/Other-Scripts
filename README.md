@@ -1,6 +1,6 @@
 #Misc projects
 ##LeNet_on_NotMNIST.py
-As name says, it's LeNet-5 on NotMNIST dataset. Recognizing numbers in different fonts. Very mundane impelmentation, with a mundane accuracy rate at 90%. 
+As name says, it's LeNet-5 on NotMNIST dataset. It recognizes numbers in different fonts. Very mundane impelmentation, with a mundane accuracy rate at 90%. 
 Run it if you have at least 2GB on your storage and 20 minutes.
 
 ## Classification_Error.R
